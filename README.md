@@ -8,4 +8,4 @@ We want to know if a threat actor is operating in my environment using an Attack
 * Threat Actors, Attack Groups, Campaigns ()
 * Are we effected by it (Yes it was found %percentage)
 
-![](https://github.com/Palo-Cortex/hackthon2020/blob/master/images/hackathon2020.png)
+![](https://github.com/Palo-Cortex/hackthon2020/blob/master/images/hackathon.jpg)
